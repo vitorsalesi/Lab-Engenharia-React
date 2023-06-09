@@ -3,6 +3,7 @@ import FormTicket from "./Components/Atividade05/FormTicket";
 import Accordion from "./Components/Atividade05/Accordion";
 import Messenger from "./Components/Atividade05/Messenger";
 import { Link } from "react-router-dom";
+import "./Components/Atividade05/styleAtividade05.css"
 
 export default function Atvidade05(){
     return (
